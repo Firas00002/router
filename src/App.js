@@ -1,7 +1,6 @@
 import { useState } from "react/cjs/react.development";
 import "./App.css";
 import Movielist from "./components/Movielist";
-// import moviesData from "./data";
 import "bootstrap/dist/css/bootstrap.min.css";
 import Addmovie from "./components/Addmovie";
 import { Filter } from "./components/Filter";
